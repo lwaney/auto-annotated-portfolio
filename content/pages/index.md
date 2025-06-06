@@ -45,7 +45,7 @@ sections:
       optimise retail distribution for forward-thinking brands worldwide.
     actions:
       - type: Button
-        label: Hire me
+        label: Let’s Collaborate
         altText: ''
         url: /
         showIcon: true
