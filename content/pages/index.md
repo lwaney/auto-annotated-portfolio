@@ -14,7 +14,14 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Waney Commercial Services
-    subtitle: ''
+    subtitle: >-
+      Industrial Engineering student and part-time freelancer based in
+      Amsterdam. I provide remote support in sales, market research, data entry,
+      and virtual merchandising. With hands-on experience from brands like
+      Bavaria and research projects at Eindhoven Airport, I blend technical
+      knowledge with commercial field expertise.I help international businesses
+      gather insights, improve customer engagement, and optimize product
+      visibility — all from a flexible, results-driven remote setup.
     styles:
       self:
         height: auto
