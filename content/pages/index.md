@@ -41,9 +41,8 @@ sections:
       I’M AN ENGINEERING STUDENT OFFERING INNOVATIVE, DATA-DRIVEN COMMERCIAL
       SERVICES.
     subtitle: >-
-      From my desk in Amsterdam I apply an engineer’s mindset to boost sales,
-      uncover market insights and optimise merchandising for forward-thinking
-      brands worldwide.
+      I apply an engineering mindset to boost sales, uncover market insights and
+      optimise retail distribution for forward-thinking brands worldwide.
     actions:
       - type: Button
         label: Hire me
