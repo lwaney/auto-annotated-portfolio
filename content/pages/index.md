@@ -157,4 +157,5 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+  url: /images/Untitled design (1).png
 ---
