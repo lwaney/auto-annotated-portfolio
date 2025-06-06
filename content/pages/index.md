@@ -14,10 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Waney Commercial Services
-    subtitle: >-
-      Smart, remote commercial support.From sales support to research and
-      merchandising, we help global brands make data-driven decisions and boost
-      performance. Based in Amsterdam, working worldwide.
+    subtitle: 'Smart, innovative commercial support.'
     styles:
       self:
         height: auto
