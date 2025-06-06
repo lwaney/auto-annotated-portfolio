@@ -153,7 +153,6 @@ sections:
         textAlign: left
 backgroundImage:
   type: BackgroundImage
-  url: /images/Untitled design.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
