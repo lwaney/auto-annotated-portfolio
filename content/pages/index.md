@@ -33,6 +33,10 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
+    text: >
+      From sales support to research and merchandising, we help global brands
+      make data-driven decisions and boost performance. Based in Amsterdam,
+      working worldwide.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
