@@ -34,12 +34,11 @@ sections:
     type: HeroSection
     actions: []
     text: >
-      Based in Amsterdam, Waney Commercial Services helps businesses worldwide
-      optimize their sales, gather actionable insights, and enhance retail
-      execution — all from a flexible, remote setup. With experience in field
-      sales, market research, and virtual merchandising, we deliver fast,
-      reliable, and insight-driven freelance support tailored to your commercial
-      goals.
+      Based in Amsterdam, Waney Commercial Services helps businesses optimize
+      their sales, gather actionable insights, and enhance retail execution.
+      With experience in account management, market research, and data, we
+      deliver fast, reliable, and insight-driven support tailored to your
+      commercial goals.
 
 
       Whether you need product audits, customer surveys, or virtual sales
