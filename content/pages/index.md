@@ -40,7 +40,10 @@ sections:
     title: >-
       I’M AN ENGINEERING STUDENT OFFERING INNOVATIVE, DATA-DRIVEN COMMERCIAL
       SERVICES.
-    subtitle: ''
+    subtitle: >-
+      From my desk in Amsterdam I apply an engineer’s mindset to boost sales,
+      uncover market insights and optimise merchandising for forward-thinking
+      brands worldwide.
     actions:
       - type: Button
         label: Hire me
