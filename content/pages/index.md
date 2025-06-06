@@ -156,6 +156,6 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: repeat
-  opacity: 100
+  opacity: 80
   url: /images/Untitled design (1).png
 ---
