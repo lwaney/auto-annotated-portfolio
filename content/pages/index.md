@@ -153,9 +153,9 @@ sections:
         textAlign: left
 backgroundImage:
   type: BackgroundImage
-  backgroundSize: cover
+  url: /images/bg2.jpg
+  backgroundSize: contain
   backgroundPosition: center
-  backgroundRepeat: repeat
+  backgroundRepeat: no-repeat
   opacity: 100
-  url: /images/Untitled design (1).png
 ---
