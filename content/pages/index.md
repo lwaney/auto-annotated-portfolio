@@ -38,8 +38,8 @@ sections:
       assistance — we make it happen.
   - type: HeroSection
     title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      I’M AN INDUSTRIAL-ENGINEERING STUDENT OFFERING INNOVATIVE, DATA-DRIVEN
+      COMMERCIAL SERVICES.
     subtitle: >-
       This is my info—I'm sharing it all this with ya'll to impress you with all
       the hard work I've done in the past few years. Once you're impressed, you
