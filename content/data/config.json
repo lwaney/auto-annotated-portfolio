@@ -19,7 +19,16 @@
                 "url": "/blog"
             }
         ],
-        "socialLinks": [],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://www.linkedin.com/in/lucas-waney/",
+                "icon": "linkedin",
+                "elementId": ""
+            }
+        ],
         "styles": {
             "self": {
                 "width": "full"
