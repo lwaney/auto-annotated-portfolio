@@ -27,6 +27,14 @@
                 "url": "/https://www.linkedin.com/in/lucas-waney/",
                 "icon": "linkedin",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "bluesky",
+                "elementId": ""
             }
         ],
         "styles": {
