@@ -5,7 +5,7 @@ colors: colors-c
 sections:
   - elementId: ''
     colors: colors-c
-    backgroundSize: full
+    backgroundSize: inset
     title: Waney Commercial Services
     subtitle: 'Smart, innovative commercial support.'
     styles:
