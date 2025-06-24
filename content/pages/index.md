@@ -234,11 +234,4 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
-backgroundImage:
-  type: BackgroundImage
-  url: /images/Untitled design (1).png
-  backgroundSize: contain
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 100
 ---
